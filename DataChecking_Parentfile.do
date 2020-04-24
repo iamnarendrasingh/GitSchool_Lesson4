@@ -30,10 +30,11 @@ set maxvar 30000
 *******************************************************************************
 *BEFORE USE THE FOLLOWING NEED TO BE UPDATED:
 *Country/Round/Abbreviations
-global Country RJ	 
-global Phase Phase1
-global phase 1
-global CCPX RJP1
+global Country India	 
+global Phase Phase2
+global phase 2
+global CCPX RJP2
+
 
 *Year of the Survey
 local SurveyYear 2020 
